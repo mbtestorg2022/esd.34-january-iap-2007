@@ -18,15 +18,196 @@ Assigned Readings
 
 The table below provides information on the course's lecture (L) and workshop sessions.
 
-| SES # | THEMES | PRODUCT DEVEOPEMENT PROCESSES (PDP) | ARCHITECTURES | EXAMPLES | READINGS |
-| --- | --- | --- | --- | --- | --- |
-| L1 | Definitions | Technology search | Architecture, form | House, bridge, camera, instruction, SW, amp, whistle | &nbsp; |
-| L2 | Definition closure | Reference PDP | Function | Whistle, SW Op amp |  {{< br >}}{{< br >}} PDD, chapter 2 {{< br >}}{{< br >}} SA, chapters 1 and 2 {{< br >}}{{< br >}}  |
-| Workshop | Creativity workshop | &nbsp; | [Creativity Workshop Readings](#Creativity_Workshop_Readings) |
-| L3 | Complexity | Synthesis PDP |  {{< br >}}{{< br >}} Architecture, concept {{< br >}}{{< br >}}  | Whistle, SW, skateboard, services, network, refrigerator |  {{< br >}}{{< br >}} SA, chapter 3 {{< br >}}{{< br >}} PDP, chapter 6 {{< br >}}{{< br >}}  |
-| L4 | Ambiguity | Closure PDP, downstream | Timing, operator, cost | Skateboard, services, network, refrigerator | SA, chapter 8 |
-| L5 | Ambiguity (cont.) | Upstream | Needs, goals | Skateboard, services, network, refrigerator | PDD, chapter 4 |
-| L6 | Summary | Role of the architect | Value, style, platforms | SDM | PDD, chapter 9 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+THEMES
+{{< thclose >}}
+{{< thopen >}}
+PRODUCT DEVEOPEMENT PROCESSES (PDP)
+{{< thclose >}}
+{{< thopen >}}
+ARCHITECTURES
+{{< thclose >}}
+{{< thopen >}}
+EXAMPLES
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Definitions
+{{< tdclose >}}
+{{< tdopen >}}
+Technology search
+{{< tdclose >}}
+{{< tdopen >}}
+Architecture, form
+{{< tdclose >}}
+{{< tdopen >}}
+House, bridge, camera, instruction, SW, amp, whistle
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Definition closure
+{{< tdclose >}}
+{{< tdopen >}}
+Reference PDP
+{{< tdclose >}}
+{{< tdopen >}}
+Function
+{{< tdclose >}}
+{{< tdopen >}}
+Whistle, SW Op amp
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PDD, chapter 2
+
+SA, chapters 1 and 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Creativity workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[Creativity Workshop Readings](#Creativity_Workshop_Readings)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis PDP
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Architecture, concept
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Whistle, SW, skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+SA, chapter 3
+
+PDP, chapter 6
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Ambiguity
+{{< tdclose >}}
+{{< tdopen >}}
+Closure PDP, downstream
+{{< tdclose >}}
+{{< tdopen >}}
+Timing, operator, cost
+{{< tdclose >}}
+{{< tdopen >}}
+Skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+SA, chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Ambiguity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Upstream
+{{< tdclose >}}
+{{< tdopen >}}
+Needs, goals
+{{< tdclose >}}
+{{< tdopen >}}
+Skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+PDD, chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+Role of the architect
+{{< tdclose >}}
+{{< tdopen >}}
+Value, style, platforms
+{{< tdclose >}}
+{{< tdopen >}}
+SDM
+{{< tdclose >}}
+{{< tdopen >}}
+PDD, chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Creativity_Workshop_Readings" >}}{{< /anchor >}}Creativity Workshop Readings
 ----------------------------------------------------------------------------------------

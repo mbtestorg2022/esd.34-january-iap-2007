@@ -97,13 +97,78 @@ The contribution from the IAP session accounts for 25% of the total grade for th
 
 It will include:
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Challenge I presentation | 5% |
-| Group projects (4 assignments) {{< br >}}{{< br >}} *   Definitions{{< br >}}*   Synthesis of a product Development process{{< br >}}*   Architecting{{< br >}}*   Architectural analysis {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 50% {{< br >}}{{< br >}}  |
-| Technology search (in groups of 2-4 students) | 20% |
-| Challenge II | 15% |
-| Class participation (discussions and holistic thinking) | 10%   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Challenge I presentation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group projects (4 assignments)
+
+*   Definitions
+*   Synthesis of a product Development process
+*   Architecting
+*   Architectural analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+50%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Technology search (in groups of 2-4 students)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Challenge II
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation (discussions and holistic thinking)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 
 The grading from the fall semester is about 75% of the total for the subject.
 
@@ -137,12 +202,197 @@ SDM students come from the corporate environment, where it is important to get a
 
 The calendar below provides information on the course's lecture (L) and workshop (workshop) sessions.
 
-| SES # | Themes | Product Development ProcessES (PDP) | Architectures | Examples | Key Dates |
-| --- | --- | --- | --- | --- | --- |
-| L1 | Definitions | Technology search | Architecture, form | House, bridge, camera, instruction, SW, amp, whistle | Homework 1, 2, 3, 4 out |
-| L2 | Definition closure | Reference PDP | Function | Whistle, SW Op amp |  {{< br >}}{{< br >}} Homework 1 (def) due {{< br >}}{{< br >}} Homework 2a (form) due {{< br >}}{{< br >}}  |
-| Workshop | Creativity workshop | &nbsp; |
-| L3 | Complexity | Synthesis PDP | Architecture, concept | Whistle, SW, skateboard, services, network, refrigerator |  {{< br >}}{{< br >}} Homework 3 (PDP) due {{< br >}}{{< br >}} Homework 2b (function) due {{< br >}}{{< br >}} Homework 5 out {{< br >}}{{< br >}}  |
-| L4 | Ambiguity | Closure PDP, downstream | Timing, operator, cost | Skateboard, services, network, refrigerator | Homework 4a (structure) due |
-| L5 | Ambiguity (cont.) | Upstream | Needs, goals | Skateboard, services, network, refrigerator | Homework 4b (process) due |
-| L6 | Summary | Role of the architect | Value, style, platforms | SDM |  {{< br >}}{{< br >}} Homework 4c (final) due {{< br >}}{{< br >}} Homework 5 (tech) due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Themes
+{{< thclose >}}
+{{< thopen >}}
+Product Development ProcessES (PDP)
+{{< thclose >}}
+{{< thopen >}}
+Architectures
+{{< thclose >}}
+{{< thopen >}}
+Examples
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Definitions
+{{< tdclose >}}
+{{< tdopen >}}
+Technology search
+{{< tdclose >}}
+{{< tdopen >}}
+Architecture, form
+{{< tdclose >}}
+{{< tdopen >}}
+House, bridge, camera, instruction, SW, amp, whistle
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1, 2, 3, 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Definition closure
+{{< tdclose >}}
+{{< tdopen >}}
+Reference PDP
+{{< tdclose >}}
+{{< tdopen >}}
+Function
+{{< tdclose >}}
+{{< tdopen >}}
+Whistle, SW Op amp
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 1 (def) due
+
+Homework 2a (form) due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Workshop
+{{< tdclose >}}
+{{< tdopen >}}
+Creativity workshop
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Complexity
+{{< tdclose >}}
+{{< tdopen >}}
+Synthesis PDP
+{{< tdclose >}}
+{{< tdopen >}}
+Architecture, concept
+{{< tdclose >}}
+{{< tdopen >}}
+Whistle, SW, skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 3 (PDP) due
+
+Homework 2b (function) due
+
+Homework 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Ambiguity
+{{< tdclose >}}
+{{< tdopen >}}
+Closure PDP, downstream
+{{< tdclose >}}
+{{< tdopen >}}
+Timing, operator, cost
+{{< tdclose >}}
+{{< tdopen >}}
+Skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4a (structure) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Ambiguity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Upstream
+{{< tdclose >}}
+{{< tdopen >}}
+Needs, goals
+{{< tdclose >}}
+{{< tdopen >}}
+Skateboard, services, network, refrigerator
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4b (process) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+Role of the architect
+{{< tdclose >}}
+{{< tdopen >}}
+Value, style, platforms
+{{< tdclose >}}
+{{< tdopen >}}
+SDM
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 4c (final) due
+
+Homework 5 (tech) due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
