@@ -6,6 +6,7 @@ description: This resource contains a paper summarizing the role and influence o
   Engineering Systems Monograph, March 31, 2004.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-34-system-architecture-january-iap-2007/f7480959c0f1ada1e0a804400eb682e8_arch_esd.pdf
 file_type: application/pdf
+parent_uid: e783e658-98d8-e3eb-06bd-bbb9c5a52800
 resourcetype: Document
 title: arch_esd.pdf
 uid: f7480959-c0f1-ada1-e0a8-04400eb682e8

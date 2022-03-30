@@ -3,6 +3,7 @@ content_type: resource
 description: Homework assignment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-34-system-architecture-january-iap-2007/f906415512ca96b12c1432748d69be74_os4.pdf
 file_type: application/pdf
+parent_uid: 819b35ac-f493-d612-c932-1cf7b041725b
 resourcetype: Document
 title: os4.pdf
 uid: f9064155-12ca-96b1-2c14-32748d69be74
